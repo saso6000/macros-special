@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="150" alt="Macros Special logo" />
 
-A Geode mod for Geometry Dash 2.2081 (Windows) that records your inputs and plays them back frame-perfectly.
+A Geode mod for Geometry Dash 2.2081 (Windows or Linux) that records your inputs and plays them back frame-perfectly.
 
 ## Features
 - Record and play back macros from the pause menu
