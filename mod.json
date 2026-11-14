@@ -1,0 +1,11 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081"
+	},
+	"id": "saso6000.macros-special",
+	"name": "Macros Special",
+	"version": "v1.0.0",
+	"developer": "saso6000",
+	"description": "Record and play back macros of your inputs in Geometry Dash."
+}
