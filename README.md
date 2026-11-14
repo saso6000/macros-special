@@ -9,14 +9,14 @@ A Geode mod for Geometry Dash 2.2081 that records your inputs and plays them bac
 - Practice mode support: inputs after a checkpoint respawn are discarded, so you can grind sections
 - Save, load and delete macros (stored as `.json` in the mod's save folder)
 - Playback ignores your own clicks and counts as safe mode: no progress or completions are saved
-
+- Change level speed
 ## How to use
 1. Open a level and press pause.
 2. Click the green macro button on the left of the pause menu.
 3. Press **Record**. The level restarts and your inputs are recorded.
 4. Pause, type a name and press **Save**.
 5. Press **Load** next to a macro, then **Play**.
-
+6. Use speed hack with + - buttons.
 ## Building
 ```sh
 geode build
