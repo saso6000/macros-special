@@ -7,5 +7,6 @@
 	"name": "Macros Special",
 	"version": "v1.0.0",
 	"developer": "saso6000",
-	"description": "Record and play back macros of your inputs in Geometry Dash."
+	"description": "Record and play back macros of your inputs in Geometry Dash.",
+	"repository": "https://github.com/saso6000/macros-special"
 }
